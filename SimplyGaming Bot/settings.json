@@ -1,4 +1,7 @@
 {
-	"prefix": "",
- 	"token": "*"
+  "ownerid": "4",
+  "modrolename": "2",
+  "adminrolename": "3",
+  "prefix": "*",
+	"token": "Token was here!"
 }

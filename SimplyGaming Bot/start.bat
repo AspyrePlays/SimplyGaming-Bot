@@ -1,3 +1,3 @@
 title SimplyGaming Bot
-nodemon app.js
+node app.js
 PAUSE
